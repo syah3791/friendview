@@ -1,0 +1,4 @@
+#Wed Nov 09 09:47:11 WIB 2022
+base.0=/Users/itlc/Documents/projects/friendview/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

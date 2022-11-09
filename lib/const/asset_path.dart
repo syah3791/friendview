@@ -1,0 +1,1 @@
+const assetIcon = 'assets/images/icons';
